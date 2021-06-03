@@ -1,0 +1,6 @@
+package com.cyberorgnizm.eshopify
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
